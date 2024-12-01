@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "mybucketjovac.s3.us-east-1.amazonaws.com",
+        hostname: "zenvpc.s3.ap-south-1.amazonaws.com",
         port: "",
         pathname: "/**",
       },
