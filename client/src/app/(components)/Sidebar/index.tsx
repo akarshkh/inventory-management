@@ -82,7 +82,7 @@ const Sidebar = () => {
         }`}
       >
         <Image
-          src="https://mybucketjovac.s3.us-east-1.amazonaws.com/logo.png
+          src="https://zenvpc.s3.ap-south-1.amazonaws.com/logo.png
           "
           alt="edstock-logo"
           width={27}
